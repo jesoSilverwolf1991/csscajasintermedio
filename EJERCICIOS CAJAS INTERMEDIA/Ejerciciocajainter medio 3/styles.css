@@ -1,0 +1,14 @@
+.caja {
+    width: 200px;
+    height: 100px;
+    box-shadow: 10px 10px 10px 5px #FF0000,  
+                -10px 10px 10px 5px #00FF00, 
+                10px -10px 10px 5px #0000FF, 
+                -10px -10px 10px 5px #FFFF00; 
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+
+  body{
+    background-color: #000;
+  }

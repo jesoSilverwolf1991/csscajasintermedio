@@ -1,0 +1,17 @@
+
+.caja {
+    width: 200px;
+    height: 100px;
+    background: linear-gradient(to right, #FF0000, #00FF00); 
+    border: 5px solid;
+    border-image: linear-gradient(to right, #0000FF, #FFFF00); 
+    border-image-slice: 1;
+    padding: 20px;
+  }
+   p{
+    color: white;
+   }
+
+   body{
+    background-color: black;
+   }
